@@ -1,3 +1,3 @@
 *{margin: 0; padding: 0;} 
 .bg-faded{background: #fff}
-a.nav-link{line-height: 80px}
+a.nav-link{line-height: 80px;text-transform: uppercase; }
